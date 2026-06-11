@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Lab05 Test" tests="1" time="0.616">
+  <testsuite name="Check API Health" id="bbab6215-f4eb-49b1-8e44-9d8065c2bdba" timestamp="2026-06-11T04:41:12.481Z" tests="0" failures="0" errors="0" time="0.616"/>
+</testsuites>
